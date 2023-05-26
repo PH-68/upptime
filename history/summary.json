@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/searxng.poyi.tk.ico",
     "slug": "sear-xng",
     "status": "down",
-    "uptime": "96.89%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "96.89%",
+    "uptime": "93.57%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "93.57%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "93.57%",
     "time": 800,
     "timeDay": 800,
     "timeWeek": 800,
     "timeMonth": 800,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2023-05-26": 11
+      "2023-05-26": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://workstatus.poyi.tk",
     "icon": "https://icons.duckduckgo.com/ip3/workstatus.poyi.tk.ico",
     "slug": "work-status",
-    "status": "up",
-    "uptime": "97.07%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "97.07%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 5998,
     "timeDay": 5998,
     "timeWeek": 5998,
     "timeMonth": 5998,
     "timeYear": 5998,
     "dailyMinutesDown": {
-      "2023-05-26": 11
+      "2023-05-26": 1
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://bustracker.poyi.tk",
     "icon": "https://icons.duckduckgo.com/ip3/bustracker.poyi.tk.ico",
     "slug": "bus-tracker",
-    "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.20%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 916,
     "timeDay": 916,
     "timeWeek": 916,
     "timeMonth": 916,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-05-26": 10
+      "2023-05-26": 0
     }
   }
 ]
